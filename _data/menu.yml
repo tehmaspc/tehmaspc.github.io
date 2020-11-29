@@ -9,11 +9,11 @@ entries:
         url: mailto:tehmasp@chaudhri.me
       - title: resume
         url: /resume/resume.pdf
-      - title: linkedin
-        url: https://www.linkedin.com/in/tehmasp
 
   - title: links
     entries:
+      - title: linkedin
+        url: https://www.linkedin.com/in/tehmasp
       - title: twitter
         url: https://twitter.com/tehmaspc
       - title: github
