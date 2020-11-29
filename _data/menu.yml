@@ -7,8 +7,13 @@ entries:
     entries:
       - title: email
         url: mailto:tehmasp@chaudhri.me
+      - title: resume
+        url: https://tehmasp.com/assets/resume.pdf
       - title: linkedin
         url: https://www.linkedin.com/in/tehmasp
+
+  - title: links
+    entries:
       - title: twitter
         url: https://twitter.com/tehmaspc
       - title: github
