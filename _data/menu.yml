@@ -2,24 +2,23 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-
-  - title: me
+  - title: Me
     entries:
-      - title: email
+      - title: Email
         url: mailto:tehmasp@chaudhri.me
-      - title: resume
+      - title: Resume
         url: /resume/resume.pdf
 
-  - title: links
+  - title: Links
     entries:
-      - title: linkedin
+      - title: LinkedIn
         url: https://www.linkedin.com/in/tehmasp
-      - title: github
+      - title: Github
         url: http://github.com/tehmaspc/
-      - title: slides
+      - title: Slides
         url: https://slides.com/tehmasp
 
-  - title: thoughts
+  - title: Thoughts
     post_list: true
 
 #  - title: rss
